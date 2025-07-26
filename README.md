@@ -5,9 +5,9 @@ Here are some ideas to get you started:
 
 - 🔭 Atualmente estou trabalhando em Aprendiz Baudocco
 - 🌱 Atualmente estou aprendendo Java, Inglês
-- 👯 Estou procurando colaborar em...
-- 🤔 Estou procurando ajuda com
 - 💬 Tenho conhecimento em Python e HTML.
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ... -->
+- 🏫 Universidade São Judas Tadeu - Ciência da Computação - EAD
+- 📱 Celular: (11 91915-4331)
+- ✉ Gmail: ()
+- 💻 Linkedin: www.linkedin.com/in/matheus-oliveira-417284273
+- ⚡ Curiosidade: Sonhando um dia ser Engenheiro de Software.
