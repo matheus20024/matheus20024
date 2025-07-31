@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 💬 Tenho conhecimento em Python e HTML.
 - 🏫 Universidade São Judas Tadeu - Ciência da Computação - EAD
 - 📱 Celular: (11 91915-4331)
-- ✉ Gmail: ()
+- ✉ Gmail: (matheusdantas2204@gmail.com)
 - 💻 Linkedin: www.linkedin.com/in/matheus-oliveira-417284273
-- ⚡ Curiosidade: Sonhando um dia ser Engenheiro de Software.
+- ⚡ Curiosidade: Aprendendo para ser Engenheiro de Software.
