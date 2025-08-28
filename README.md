@@ -3,7 +3,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Atualmente estou trabalhando em Aprendiz Baudocco
 - 🌱 Atualmente estou aprendendo Java, Inglês e Git
 - 💬 Tenho conhecimento em Python e HTML.
 - 🏫 Universidade São Judas Tadeu - Ciência da Computação - EAD
